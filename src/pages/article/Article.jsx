@@ -32,7 +32,7 @@ export default function Article() {
             </button>
           </div>
           <div class="relative">
-            <div class="absolute mt-[80px] leading-[4] text-lg">
+            <div class="absolute mt-[60px] leading-[2] text-lg">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis
               non eligendi at voluptate molestiae! Eius, consectetur a, vitae
               impedit iusto fugit quo sequi fuga esse, reiciendis aut maxime
@@ -86,7 +86,6 @@ export default function Article() {
           </div>
         </div>
       </div>
-      <Endbar />
     </div>
   );
 }
