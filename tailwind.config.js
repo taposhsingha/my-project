@@ -5,6 +5,7 @@ module.exports = {
       fontFamily: {
         open: "'Open Sans', sans-serif",
         ubun: "'Ubuntu', sans-serif",
+        poppin: "'Poppins', sans-serif",
       },
       container: {
         center: true,

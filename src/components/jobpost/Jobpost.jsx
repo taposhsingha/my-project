@@ -4,7 +4,7 @@ import homeimg from "../../images/career_pic.jpg";
 export default function Jobpost() {
   return (
     <div>
-      <div class="mt-[15px] w-3/5  container ml-[20px] bg-gray-200 rounded-[12px] p-[8px]">
+      <div class="mt-[15px] w-[900px]  container ml-[20px] bg-gray-200 rounded-[12px] p-[8px]">
         <div class="flex">
           <img
             class="w-[350px] h-[200px] object-cover rounded-[12px]"
