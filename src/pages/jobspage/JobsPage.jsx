@@ -6,7 +6,6 @@ import Topbar from "../../components/topbar/TopBar";
 export default function JobsPage() {
   return (
     <div>
-      <Topbar />
       <div class=" w-4/5  mx-auto ">
         <h1 class="mt-[32px] text-center font-ubun text-5xl">
           Internship / Job offers list:-

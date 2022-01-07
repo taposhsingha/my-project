@@ -6,7 +6,6 @@ import homeimg from "../../images/career_pic.jpg";
 export default function EditArticle() {
   return (
     <div>
-      <Topbar />
       <div class="w-4/5 flex items-center justify-center mx-auto">
         <div class="bg-white rounded  w-[1100px] ">
           <img

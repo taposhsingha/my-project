@@ -8,7 +8,6 @@ import Endbar from "../../components/endbar/Endbar";
 export default function Home() {
   return (
     <div>
-      <TopBar class="sticky" />
       <div class="relative">
         <img src={homeimg} />
         <div>

@@ -6,7 +6,6 @@ import Endbar from "../../components/endbar/Endbar";
 export default function Singlejob() {
   return (
     <div>
-      <Topbar />
       <div class="w-4/5 h-[1800px] mx-auto">
         <img
           class="mt-[10px] w-[1100px] mx-auto rounded-[10px]"

@@ -6,7 +6,6 @@ import Endbar from "../../components/endbar/Endbar";
 export default function Article() {
   return (
     <div>
-      <Topbar />
       <div class="w-4/5 mx-auto mt-[0px]">
         <div class="mt-[10px] text-5xl font-ubun text-center">
           This is the title of the blog
